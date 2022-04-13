@@ -1,16 +1,16 @@
-### Hi there 👋
+## :wave: Hey, i am William!
 
-<!--
-**WilliamWelll/WilliamWelll** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### :heart:️ Thanks for being here!
+[<img src="https://img.shields.io/discord/865319695850405888?color=5865F2&style=for-the-badge&label=Discord" />](https://discord.gg/nNHH5apCwr)
+[<img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/_TheMaestroo_) 
+![counter](https://komarev.com/ghpvc/?username=TheMaestro0&style=flat-square)
+- :telephone_receiver: You can contact me through (**`..Jackson#1107`**)
 
-Here are some ideas to get you started:
+#### Languages and Tools I can work with:
+<a><img src="https://img.shields.io/badge/-Nodejs-43853?logo=Node.js&logoColor=white"></a>
+<img src="https://img.shields.io/badge/-NPM-CB3837?logo=npm&logoColor=white">
+<img src="https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white">
+<img src="https://img.shields.io/badge/-MongoDB-13aa52?logo=mongodb&logoColor=white">
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### Stats:
+<img src="https://github-readme-stats.vercel.app/api?username=JacksonWell&show_icons=true&hide_border=true&theme=algolia&icon_color=#ee6c4d">
