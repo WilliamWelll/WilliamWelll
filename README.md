@@ -4,7 +4,7 @@
 [<img src="https://img.shields.io/discord/865319695850405888?color=5865F2&style=for-the-badge&label=Discord" />](https://discord.gg/xhCvBY8nnb)
 [<img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://discord.gg/xhCvBY8nnb) 
 ![counter](https://komarev.com/ghpvc/?username=TheMaestro0&style=flat-square)
-- :telephone_receiver: You can contact me through (**`.William#1107`**)
+- :telephone_receiver: You can contact me through (**`williams_jackson`**)
 
 #### Languages and Tools I can work with:
 <a><img src="https://img.shields.io/badge/-Nodejs-43853?logo=Node.js&logoColor=white"></a>
